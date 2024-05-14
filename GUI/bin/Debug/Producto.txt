@@ -1,0 +1,5 @@
+101;Chaqueta roja;10;5;800000;Activo
+102;Short para Dama;15;150000;3;Activo
+103;Pantalón de Caballeros;20;7;350000;Activo
+104;Camisas Slim;15;2;100000;Activo
+105;Vestido Blanco;30;10;90000;Inactivo
